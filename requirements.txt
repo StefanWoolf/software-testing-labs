@@ -1,0 +1,6 @@
+sqlalchemy
+psycopg2-binary
+confluent-kafka
+factory-boy
+pytest
+testcontainers[postgres,kafka]
